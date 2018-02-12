@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Smart Words Manager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Smart_Words_Manager_jar</output-path>
+    <root id="archive" name="Smart Words Manager.jar">
+      <element id="module-output" name="Smart Words Manager" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
